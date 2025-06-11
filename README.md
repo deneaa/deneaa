@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-- ⚡️ JS / TS & LeetCode Enjoyer
+- ⚡️ JS / TS Developer
 - 💬 It won’t happen over night, but if you quit, it won’t happen at all
 - 👨🏻‍💻 For any question or problem, contact me: 
 [Mail](mailto:denis.stefanw@gmail.com) 
